@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="menu_opcion1">Contacto</string>
+    <string name="menu_opcion2">Acerca de</string>
+    <string name="title_activity_contacto">Contacto</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo electronico</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="botonmensaje">ENVIAR</string>
+    <string name="Info">Pepito Pepito Pepito</string>
+    <string name="perro_nombre">Flex</string>
+</resources>
