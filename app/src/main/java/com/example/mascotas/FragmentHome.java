@@ -34,12 +34,12 @@ public class FragmentHome extends Fragment {
         llm.setOrientation(LinearLayoutManager.VERTICAL);
         listamascotas.setLayoutManager(llm);
         db = new BaseDatos(v.getContext());
-        db.insertarMascota("Flex",R.drawable.perro1);
-        db.insertarMascota("Moro",R.drawable.perro2);
-        db.insertarMascota("Terry",R.drawable.perro3);
-        db.insertarMascota("Max",R.drawable.perro4);
-        db.insertarMascota("Dori",R.drawable.perro5);
-        db.insertarMascota("Manchas",R.drawable.perro6);
+        db.insertarMascota("Pepe",R.drawable.perro6);
+        db.insertarMascota("Pepa",R.drawable.perro5);
+        db.insertarMascota("Papa",R.drawable.perro4);
+        db.insertarMascota("Mema",R.drawable.perro3);
+        db.insertarMascota("Memo",R.drawable.perro2);
+        db.insertarMascota("Mono",R.drawable.perro1);
 
 
         iniciaradaptador(v.getContext());

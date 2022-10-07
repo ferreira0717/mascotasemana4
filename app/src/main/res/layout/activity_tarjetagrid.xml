@@ -23,7 +23,7 @@
             android:layout_height="197dp"
             android:layout_gravity="center_horizontal"
             android:scaleType="fitXY"
-            android:src="@drawable/perro1" />
+            android:src="@drawable/snoopy" />
 
 
         <TextView
